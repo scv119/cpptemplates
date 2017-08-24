@@ -1,6 +1,6 @@
 {
     "C_Cpp.clang_format_path": "/usr/local/bin/clang-format",
-    "C_Cpp.clang_format_formatOnSave": true,
+    "C_Cpp.clang_format_formatOnSave": false,
     "window.zoomLevel": 0,
     "files.associations": {
         "__config": "cpp",
@@ -10,6 +10,12 @@
         "new": "cpp",
         "stdexcept": "cpp",
         "typeinfo": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "deque": "cpp",
+        "iterator": "cpp"
     }
 }
